@@ -1,0 +1,6 @@
+{
+  "name": "SD Cerdas Nusantara",
+  "description": "Platform pembelajaran online interaktif untuk Sekolah Dasar (SD Kelas 1-6)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
